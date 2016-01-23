@@ -1,8 +1,7 @@
 name: Designer Shauny
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.61144
-title: "Shaun's Site"
+layout_spectrum: 0.6115094092674553
+typography_spectrum: 0.9644151001702994
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c9d1c6'
-    - '#91948b'
-    - '#1a1413'
-    - '#563127'
-    - '#925647'
-  brandStrength: 0.875
-  lightness: 0.5625
-  saturation: 0.75
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6744464838411659
+  lightness: 0.2831810002680868
+  saturation: 0.6011121680494398
   rhythmicContrast: 0.06580944103188813
 purpose: []
