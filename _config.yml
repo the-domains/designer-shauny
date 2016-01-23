@@ -2,6 +2,7 @@ name: Designer Shauny
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.61144
+title: "Shaun's Site"
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#1a1413'
     - '#563127'
     - '#925647'
-  brandStrength: 0.4375
-  lightness: 0.3125
-  saturation: 0.625
+  brandStrength: 0.875
+  lightness: 0.5625
+  saturation: 0.75
   rhythmicContrast: 0.06580944103188813
 purpose: []
